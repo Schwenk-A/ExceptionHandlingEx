@@ -1,5 +1,6 @@
 ﻿using ExceptionHandlingPractice;
 using System.Collections.Generic;
+
 //this is a companion to the Exception Handling Notes. 
 
 
@@ -14,9 +15,9 @@ using System.Collections.Generic;
 //Exercise 1:____________________________________________________________
 
 
-var badUserInput = 0;
-var result = BrokenCode.DivideByZeroError(badUserInput);
-Console.WriteLine(result);
+//var badUserInput = 0;
+//var result = BrokenCode.DivideByZeroError(badUserInput);
+//Console.WriteLine(result);
 
 //Exercise 2: ____________________________________________________________
 
@@ -27,11 +28,14 @@ Console.WriteLine(result);
 
 //Exercise 3: ____________________________________________________________
 
-
-
+//string badString = string.Empty;
+//basString = System.IO.File.ReadAllText(@"C:\file.txt");
 
 
 //Exercise 4: ____________________________________________________________
+
+//var numbers = new List<int> { 1, 3, 5 };
+//var firstNumHigherThanFive = numbers.Where(x => x > 5).First();
 
 
 
