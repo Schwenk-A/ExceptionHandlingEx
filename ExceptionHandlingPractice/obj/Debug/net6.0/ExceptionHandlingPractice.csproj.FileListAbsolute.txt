@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.exe
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.deps.json
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.dll
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\bin\Debug\net6.0\ExceptionHandlingPractice.pdb
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.dll
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\refint\ExceptionHandlingPractice.dll
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.pdb
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\ExceptionHandlingPractice.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\net6.0\ref\ExceptionHandlingPractice.dll
