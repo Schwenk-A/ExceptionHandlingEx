@@ -12,7 +12,7 @@ using System.Collections.Generic;
  * uncomment out each section as you work through each one.*/
 
 
-//Exercise 1:____________________________________________________________
+//Exercise 1:_____________________________________________________________
 
 
 //var badUserInput = 0;
