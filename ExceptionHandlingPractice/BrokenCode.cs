@@ -11,10 +11,8 @@ namespace ExceptionHandlingPractice
         //Method for exercise 1. 
         public static int DivideByZeroError(int numOne)
         {
-   
                 return numOne / 0;
-  
-            
+
         }
         //
 

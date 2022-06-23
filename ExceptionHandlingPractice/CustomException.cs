@@ -9,6 +9,7 @@ namespace ExceptionHandlingPractice
     internal class CustomException : Exception
     {
         //this is a templated example of a custom exception. Use this for creating new custom exceptions
+        //naming is important with the class name and always inherit from Exception!
         public CustomException()
         {
 
@@ -21,7 +22,7 @@ namespace ExceptionHandlingPractice
         {
             //we pass in string message and it gets sent to the base class which is exception and 
             //uses its constructor that takes in one string.
-            //
+            
         }
 
         public CustomException(string message, Exception inner)
